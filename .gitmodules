@@ -1,0 +1,3 @@
+[submodule "App"]
+	path = App
+	url = https://github.com/hamravichauhan/book_review-mobile-App-.git
